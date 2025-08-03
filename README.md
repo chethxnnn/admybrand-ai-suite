@@ -430,10 +430,10 @@ MIT License - You are free to:
 ---
 
 **Questions or Support?**  
-📧 [hello@admybrand.ai](mailto:hello@admybrand.ai) | 📞 [+1 (555) 123-4567](tel:+15551234567)
+📧 [chethanlucky3214@gmail.com](mailto:chethanlucky3214@gmail.com) 
 
 **Live Demo**: [admybrand-ai-suite-lilac.vercel.app](https://admybrand-ai-suite-lilac.vercel.app/)
 
-Made with 🚀 by [Chethan](https://github.com/chethxnnn)
+Made with ❤️ by [Chethan](https://github.com/chethxnnn)
 
 </div>
